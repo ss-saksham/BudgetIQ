@@ -56,7 +56,7 @@ This project is a full-stack finance dashboard application built with the MERN s
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ss-saksham/finance-app.git
+    git clone https://github.com/ss-saksham/BudgetIQ.git
     cd finance-app
     ```
 
